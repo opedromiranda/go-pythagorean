@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/opedromiranda/pythagorean.svg?branch=master)](https://travis-ci.org/opedromiranda/go-pythagorean)
+[![Build Status](https://travis-ci.org/opedromiranda/pythagorean.svg?branch=master)](https://travis-ci.org/opedromiranda/pythagorean)
 
 
 # Pythagorean
